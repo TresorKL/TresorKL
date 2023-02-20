@@ -1,4 +1,4 @@
-COMPTER SCIENCE. I use JAVA & ANDROID STUDIO to build mobile apps📱📲 AND Spring boot, Laravel, Django to build RestApis and web apps🖥💻. SQL (MySQL) & NoSQL(MongoDB),... 👨🏽‍💻💻📱🙂
+COMPTER SCIENCE. I use JAVA & ANDROID STUDIO to build mobile apps📱📲 AND Spring boot, Laravel, Django to build RestApis and web apps🖥💻. SQL (MySQL) & NoSQL(MongoDB),PostgreSQL... 👨🏽‍💻💻📱🙂
 
 <a href="https://www.twitter.com/13observateur" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/13observateur?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=000000" /></a><a href="https://www.github.com/TresorKL" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/TresorKL?logo=github&style=for-the-badge&color=14b8a6&labelColor=000000" /></a>
 ### Skills
