@@ -1,30 +1,8 @@
 Backend Software Engineer | Computer Science | Java (Spring Boot, J2EE) | AWS | Microservices | PHP (Laravel)
 
-I'm Tresor, a dedicated backend developer with a passion for diving deep into the unseen core of software, ensuring optimal performance and scalable solutions.
+## I'm Tresor, a dedicated backend developer with a passion for diving deep into the unseen core of software, ensuring optimal performance and scalable solutions.
 
-## Technologies I specialize in
-
-- JAVA: Spring Boot, JavaEE (RestAPI & MVC)
-- PHP: Laravel (RestAPI & MVC)
-
-
-## Databases:
-
-- SQL 
-- MySQL 
-- PostgreSQL 
-- MongoDB
-
-## Additional Expertise:
-
-- System design 
-- Database design
-
-## 📖📚🛠️🧰⚙️
-
-Cloud ☁️ AWS 
-Docker 🦈
-
+ 
 <a href="https://www.twitter.com/13observateur" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/13observateur?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=000000" /></a><a href="https://www.github.com/TresorKL" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/TresorKL?logo=github&style=for-the-badge&color=14b8a6&labelColor=000000" /></a>
 ### Skills
 
